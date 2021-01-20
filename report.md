@@ -7,8 +7,8 @@
 На тестирование затрачен 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Cossmoz/Java_1/issues/1
-* https://github.com/Cossmoz/Java_1/issues/2
+* [В руководстве использования KeyValidator указаны невалидные ключи в списке валидных](https://github.com/Cossmoz/Java_1/issues/1)
+* [В руководстве использования KeyValidator указан валидный ключ в списке невалидных](https://github.com/Cossmoz/Java_1/issues/2)
 
 ## Описание процесса тестирования
 
